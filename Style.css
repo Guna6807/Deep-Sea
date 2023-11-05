@@ -1,0 +1,1211 @@
+body 
+{
+    margin: 0 0 0 0;
+}
+
+
+
+.T-s
+{
+    background-color: #eaf6ff;
+    height: 738px;
+}
+
+.ptitle
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 230px; 
+    left: 830px;
+    font-size: 100px;
+    width: 420px;
+}
+
+.pstitle
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 250px; 
+    left: 970px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 210px;
+}
+
+.submarine
+{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    width: 340px;
+}
+
+.submarine img
+{
+    position: fixed;
+}
+
+.submarine img {
+    animation: shake 2s infinite;
+}
+
+@keyframes shake {
+    0% {
+        transform: translateY(0);
+    }
+    25% {
+        transform: translateY(-5px);
+    }
+    50% {
+        transform: translateY(0);
+    }
+    75% {
+        transform: translateY(5px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+#Submarine
+{
+    width: 200px;
+    height: 200px;
+}
+
+/*.waves
+{
+    width: 1269.600px;
+}
+
+.wave
+{
+    width: 1510px;
+    height: 275px; 
+}
+<div class="Waves">
+                    <img class="wave" src="Seawave.png" alt="Waves">
+                </div>*/
+
+.f-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 400px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+
+}
+
+.f-p1
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 200px; 
+    left: 590px;
+    font-size: 50px;
+    width: 150px;
+}
+
+.f-p2
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 140px; 
+    left: 1170px;
+    font-size: 15px;
+    width: 275px;
+}
+
+.swimmers
+{
+    position: relative;
+    left: 871px;
+    bottom:20px;
+    width: 200px;
+}
+
+#Swimmer
+{
+    width: 200px;
+    height: 200px;    
+}
+
+.f-section
+{
+    background-color: #b9e1fe;
+    height: 500px;
+}
+
+.swimmers img {
+    animation: shake 2s infinite;
+}
+
+.f-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.s-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 380px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.s-p1
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 200px; 
+    left: 590px;
+    font-size: 50px;
+    width: 250px;
+}
+
+.s-p2
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 140px; 
+    left: 1170px;
+    font-size: 15px;
+    width: 275px;
+}
+
+.s-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Scuba
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.s-section
+{
+    background-color: #8cf;
+    height: 500px;
+}
+
+#Scuba
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Scuba img {
+    animation: shake 2s infinite;
+}
+
+.t-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 380px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.t-p1
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 200px; 
+    left: 590px;
+    font-size: 50px;
+    width: 250px;
+}
+
+.t-p2
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 140px; 
+    left: 1170px;
+    font-size: 15px;
+    width: 275px;
+}
+
+.t-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Orca
+{
+    position: relative;
+    left: 870px;
+    bottom:20px;
+    width: 200px;
+}
+
+.t-section
+{
+    background-color: #8cf;
+    height: 500px;
+}
+
+#Orca
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Orca img {
+    animation: shake 2s infinite;
+}
+
+
+.fo-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 380px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.fo-p1
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 200px; 
+    left: 590px;
+    font-size: 50px;
+    width: 250px;
+}
+
+.fo-p2
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 140px; 
+    left: 1170px;
+    font-size: 15px;
+    width: 275px;
+}
+
+.fo-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Whale
+{
+    position: relative;
+    left: 860px;
+    bottom:20px;
+    width: 200px;
+}
+
+
+
+.fo-section
+{
+    background-color: #26a2ff;
+    height: 500px;
+}
+
+#Whale
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Whale img {
+    animation: shake 2s infinite;
+}
+
+.fi-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 450px; 
+    left: 840px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.fi-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Psuba
+{
+    position: relative;
+    left: 860px;
+    bottom:50px;
+    width: 200px;
+}
+
+.fi-section
+{
+    background-color: #26a2ff;
+    height: 500px;
+}
+
+#Psuba
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Psuba img {
+    animation: shake 2s infinite;
+}
+
+.fiv-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.fiv-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Octupus
+{
+    position: relative;
+    left: 880px;
+    bottom:100px;
+    width: 200px;
+}
+
+.fiv-section
+{
+    background-color: #26a2ff;
+    height: 500px;
+}
+
+#Octupus
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Octupus img {
+    animation: shake 2s infinite;
+}
+
+.si-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.si-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Oarfish
+{
+    position: relative;
+    left: 900px;
+    bottom:100px;
+    width: 200px;
+}
+
+.si-section
+{
+    background-color: #26a2ff;
+    height: 500px;
+}
+
+#Oarfish
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Oarfish img {
+    animation: shake 2s infinite;
+}
+
+.se-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.se-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Jcrab
+{
+    position: relative;
+    left: 860px;
+    bottom:20px;
+    width: 200px;
+}
+
+.se-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Jcrab
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Jcrab img {
+    animation: shake 2s infinite;
+}
+
+.e-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.e-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Bwhale
+{
+    position: relative;
+    left: 860px;
+    bottom:20px;
+    width: 200px;
+}
+
+.e-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Bwhale
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Bwhale img {
+    animation: shake 2s infinite;
+}
+
+.n-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.n-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Bkhalifa
+{
+    position: relative;
+    left: 880px;
+    bottom:90px;
+    width: 200px;
+}
+
+.n-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Bkhalifa
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Bkhalifa img {
+    animation: shake 2s infinite;
+}
+
+.te-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.te-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Gsquid
+{
+    position: relative;
+    left: 880px;
+    bottom:50px;
+    width: 200px;
+}
+
+.te-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Gsquid
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Gsquid img {
+    animation: shake 2s infinite;
+}
+
+.el-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 430px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.el-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Wmata
+{
+    position: relative;
+    left: 860px;
+    bottom:70px;
+    width: 200px;
+}
+
+.el-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Wmata
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Wmata img {
+    animation: shake 2s infinite;
+}
+
+.tw-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.tw-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Gwhite
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.tw-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Gwhite
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Gwhite img {
+    animation: shake 2s infinite;
+}
+
+.th-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.th-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Lturtle
+{
+    position: relative;
+    left: 880px;
+    bottom:50px;
+    width: 200px;
+}
+
+.th-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Lturtle
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Lturtle img {
+    animation: shake 2s infinite;
+}
+
+.fou-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.fou-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Gcanon
+{
+    position: relative;
+    left: 880px;
+    bottom:20px;
+    width: 200px;
+}
+
+.fou-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Gcanon
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Gcanon img {
+    animation: shake 2s infinite;
+}
+
+.five-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.five-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Bfish
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.five-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Bfish
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Bfish img {
+    animation: shake 2s infinite;
+}
+
+.six-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.six-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Swhale
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.six-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Swhale
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Swhale img {
+    animation: shake 2s infinite;
+}
+
+.sev-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.sev-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Dcorals
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.sev-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Dcorals
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Dcorals img {
+    animation: shake 2s infinite;
+}
+
+.eig-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.eig-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Afish
+{
+    position: relative;
+    left: 900px;
+    bottom:80px;
+    width: 200px;
+}
+
+.eig-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Afish
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Afish img {
+    animation: shake 2s infinite;
+}
+
+.nin-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px; 
+    left: 930px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.nin-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Bswallower
+{
+    position: relative;
+    left: 920px;
+    bottom:20px;
+    width: 200px;
+}
+
+.nin-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Bswallower
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Bswallower img {
+    animation: shake 2s infinite;
+}
+
+.twe-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.twe-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Srio
+{
+    position: relative;
+    left: 880px;
+    bottom:70px;
+    width: 200px;
+}
+
+.twe-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Srio
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Srio img {
+    animation: shake 2s infinite;
+}
+
+.two-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 310px; 
+    left: 880px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.two-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Mtrench
+{
+    position: relative;
+    left: 900px;
+    bottom:20px;
+    width: 200px;
+}
+
+.two-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Mtrench
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Mtrench img {
+    animation: shake 2s infinite;
+}
+
+.tt-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.tt-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Sfish
+{
+    position: relative;
+    left: 860px;
+    bottom:20px;
+    width: 200px;
+}
+
+.tt-section
+{
+    background-color: #001b30;
+    height: 500px;
+}
+
+#Sfish
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Sfish img {
+    animation: shake 2s infinite;
+}
+
+.tth-p
+{
+    color: #164863; 
+    font-family: 'PT Serif', serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 410px; 
+    left: 860px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.tth-slide p
+{
+    animation: shake 2s infinite;
+}
+
+.Cdeep
+{
+    position: relative;
+    left: 840px;
+    bottom:50px;
+    width: 200px;
+}
+
+.tth-section
+{
+    background-color: #001b30;
+    height: 800px;
+}
+
+#Cdeep
+{
+    width: 200px;
+    height: 200px;
+}
+
+.Cdeep img {
+    animation: shake 2s infinite;
+}
+
